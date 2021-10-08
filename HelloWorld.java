@@ -1,5 +1,4 @@
-/* HelloWorld.java is the first program
- */
+//  HelloWorld.java is the first program
 
 public class HelloWorld
 {
